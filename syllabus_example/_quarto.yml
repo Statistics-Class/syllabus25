@@ -4,7 +4,7 @@ project:
 book:
   downloads: [pdf]
   title: "Syllabus"
-  author: "Instructor Name"
+  author: "Dr. Francois Nguyen"
   date: "12/6/2023"
   chapters:
     - index.qmd
